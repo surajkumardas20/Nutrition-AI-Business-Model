@@ -1,0 +1,1 @@
+INSERT INTO assessments (patients, bmi, risk_level, precautions, medications)
