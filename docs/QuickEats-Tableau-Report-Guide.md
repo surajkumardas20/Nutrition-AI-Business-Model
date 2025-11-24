@@ -1,6 +1,6 @@
 # QuickEats Multi-Page Tableau Report Blueprint
 
-This guide documents how to build the requested three-page Tableau report for QuickEats and the accompanying strategic analysis. It captures calculated fields, page layouts, and interaction requirements so the packaged workbook (`SurajKumarDas.twbx`) can be assembled consistently.
+This guide documents how to build the requested three-page Tableau report for QuickEats and the accompanying strategic analysis. It captures calculated fields, page layouts, and interaction requirements so the packaged workbook (`SurajKumarDas_GradedAssignment_Submission.twbx`) can be assembled consistently.
 
 ## 1) Data Modeling & Enrichment
 Create these calculated fields in Tableau (Data pane → **Create Calculated Field**):
@@ -69,10 +69,10 @@ Once the visuals are built, use the dashboards to answer:
 2. **Customer Retention Risk**: Find the cuisine with lowest Satisfaction Rate and high order share (compare Satisfaction by Cuisine vs Revenue/Orders by Cuisine).
 3. **Overall Strategic Recommendation**: Combine insights from pages 1–3 to propose one initiative (e.g., speed-focused ops fix, cuisine-specific quality program, promo targeting slow delivery cohorts). Cite KPIs and charts directly.
 
-Document your written responses in a separate markdown/docx alongside the packaged workbook. Name the Tableau export **`SurajKumarDas.twbx`** before submission.
+Document your written responses in a separate markdown/docx alongside the packaged workbook. Name the Tableau export **`SurajKumarDas_GradedAssignment_Submission.twbx`** before submission.
 
 ## 5) Delivery Checklist
 - All calculated fields created and reused across worksheets.
 - Three dashboards with navigation and cuisine action filters working globally.
 - Tooltips include context (top restaurants for slow/fast segments on Page 2).
-- Export and submit `SurajKumarDas.twbx` plus the strategic analysis document.
+- Export and submit `SurajKumarDas_GradedAssignment_Submission.twbx` plus the strategic analysis document.
