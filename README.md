@@ -1,37 +1,30 @@
-# Nutrition-AI-Business-Model
-A research-driven exploration of how AI can transform Nutrition Science and Business Analytics.
 # Nutrition AI Business Model
 
-Welcome to **Nutrition AI Business Model**, a repository by [Suraj Kumar Das](https://github.com/surajkumardas20).
+A research-driven look at how AI can connect nutrition science with business analytics. Maintained by [Suraj Kumar Das](https://github.com/surajkumardas20).
 
-## 📖 About the Project
-This project is a fusion of **Nutrition Science**, **Business Analytics**, and **Generative AI**.  
-The goal is to explore how artificial intelligence can:
-- Personalize nutrition plans
-- Enhance diet tracking with predictive analytics
-- Bridge science and business for scalable health solutions
-- Develop AI-driven models for nutrition startups
+## What is in this repo
 
-## 🎯 Objectives
-- Build datasets around nutrition science and diet planning
-- Apply **Generative AI** to create dynamic dietary recommendations
-- Explore **agentic AI systems** for real-time decision-making
-- Test **business models** for scaling nutrition solutions
+- [docs/QuickEats-Tableau-Report-Guide.md](docs/QuickEats-Tableau-Report-Guide.md) — calculated fields, three dashboard pages, and the strategic-analysis prompts for the QuickEats Tableau report.
+- `deliverables/` — placeholders only. Tableau Desktop has to produce the real `.twbx` packages. A text file with that extension will not open in Tableau.
 
-## 🧩 Tech Stack
-- Python (Pandas, NumPy, Scikit-learn, PyTorch)
-- Business Analytics Tools (Power BI, Tableau)
-- AI/ML frameworks for generative and agentic models
-- Nutrition datasets & APIs
+## Build the workbook
 
-## 🌱 Future Scope
-- Integration with wearable health tech (Fitbit, Apple Watch)
-- Real-time recommendation engines
-- AI-powered diet coaches
-- Scalable SaaS business models in health & nutrition
+Follow the guide, then replace the placeholder files with the packaged workbooks:
 
-## 🚀 Getting Started
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/surajkumardas20/Nutrition-AI-Business-Model.git
+- `deliverables/SurajKumarDas.twbx`
+- `deliverables/SurajKumarDas_GradedAssignment_Submission.twbx`
 
+The graded-submission copy also has its own repository: [SurajKumarDas_GradedAssignment_Submission.twbx](https://github.com/surajkumardas20/SurajKumarDas_GradedAssignment_Submission.twbx).
+
+Worked SQL for the nutrition assessment model lives in [Assessment-Model](https://github.com/surajkumardas20/Assessment-Model) and [Nutrition_AI](https://github.com/surajkumardas20/Nutrition_AI).
+
+## Clone
+
+```bash
+git clone https://github.com/surajkumardas20/Nutrition-AI-Business-Model.git
+cd Nutrition-AI-Business-Model
+```
+
+## License
+
+MIT
